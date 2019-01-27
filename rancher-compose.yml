@@ -1,0 +1,6 @@
+version: '2'
+services:
+  students-db:
+    scale: 2
+  students-ms:
+    scale: 2
